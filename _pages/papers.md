@@ -13,6 +13,8 @@ Bank of Canada Staff Working Paper, Nr. 2023-10
 **[Climate Variability and International Trade (2023) ](https://www.bankofcanada.ca/wp-content/uploads/2023/01/swp2023-8.pdf)** - joint with [Geoff Dunbar](https://www.bankofcanada.ca/profile/geoffrey-r-dunbar/) and [Ben Tomlin](https://www.bankofcanada.ca/profile/ben-tomlin/)  
 Bank of Canada Staff Working Paper, Nr. 2023-8  
 
+**Non-homothetic Ricardo (2024)** - joint with [Oliver Loertscher](https://www.oliverdl.com/) and [Pau Pujolas](https://pau.pujolasfons.com/)
+
 ### Old Working Papers
 
 **[Immigration to the U.S.: A Problem for the Republicans or the Democrats?](http://ftp.iza.org/dp9543.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Giovanni Peri](http://giovanniperi.ucdavis.edu/)  
