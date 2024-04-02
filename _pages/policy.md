@@ -10,7 +10,7 @@ Bank of Canada Discussion Paper, Nr. 2017-15
 **[Understanding the weakness in global: What is the new normal? (2016)](https://www.ecb.europa.eu/pub/pdf/scpops/ecbop178.en.pdf)** - joint with IRC Task Force Members  
 ECB Occasional Paper Series, Nr. 178  
 
-**[The great normalization of global trade (2016)](http://voxeu.org/article/great-normalisation-global-trade)** - joint with Alexander Al-Haschimi, Martin Gächter and  David Lodge
+**[The great normalization of global trade (2016)](http://voxeu.org/article/great-normalisation-global-trade)** - joint with Alexander Al-Haschimi, Martin Gächter and  David Lodge  
 VoxEU column
 
 **[Does immigration affect election outcomes? Evidence from the United States (2016)](http://voxeu.org/article/new-ebook-refugees-and-economic-migrants-facts-policies-and-challenges)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Giovanni Peri](http://giovanniperi.ucdavis.edu/)   
