@@ -15,7 +15,7 @@ Bank of Canada Staff Working Paper, Nr. 2023-8
 
 **Non-homothetic Ricardo (2024)** - joint with [Oliver Loertscher](https://www.oliverdl.com/) and [Pau Pujolas](https://pau.pujolasfons.com/)
 
-### Old Working Papers
+### Working Papers
 
 **[Refugee Resettlement: The impact on international trade flows (2017)](https://2017-2021.state.gov/wp-content/uploads/2018/12/Refugee-Resettlement-The-Impact-on-International-Trade-Flows-1.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Chris Parsons](https://research-repository.uwa.edu.au/en/persons/christopher-parsons)     
 US Department of State Office of the Chief Economist (OCE) Working. Paper 3
