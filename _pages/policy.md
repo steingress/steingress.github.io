@@ -18,6 +18,7 @@ Chapter 15 in "Refugees and Economic Migrants: Facts, policies and challenges"
 VoxEU eBook - edited by [Francesco Fasani](https://sites.google.com/site/fasani2010/)   
 
 **[The role of China in the trade slowdown (2016)](https://publications.banque-france.fr/sites/default/files/media/2016/10/06/rue-de-la-banque_30_2016-09_en.pdf)**  - joint with [Guillaume Gaulier](https://www.banque-france.fr/economie/economistes-et-chercheurs/guillaume-gaulier) and [Soledad Zignago](https://www.banque-france.fr/en/economics/economists-and-researchers/soledad-zignago)  
+Banque de France: Rue de la Banque Nr. 30  
 [Version française](https://www.banque-france.fr/sites/default/files/medias/documents/rue-de-la-banque_30_2016-09_fr.pdf)    
 Mentioned in speech by [Governor Powell](https://www.federalreserve.gov/newsevents/speech/powell20161118a.htm)  
 
