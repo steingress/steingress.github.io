@@ -4,6 +4,9 @@ title: Working Papers
 author_profile: true
 ---
 
+**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral
+Bank of Canada Staff Working Paper, Nr. 2024-40
+
 **[Immigration and Provision of Public Goods: Evidence at the Local Level in the U.S" (2023)](https://www.bankofcanada.ca/wp-content/uploads/2023/11/swp2023-57.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Mine Z. Senses](https://sites.google.com/view/minesenses/)  
 CEPR Discussion Paper, Nr. 18054, Bank of Canada Staff Working Paper, Nr. 2023-57 
 
@@ -15,7 +18,10 @@ Bank of Canada Staff Working Paper, Nr. 2023-8
 
 **Non-homothetic Ricardo (2024)** - joint with [Oliver Loertscher](https://www.oliverdl.com/) and [Pau Pujolas](https://pau.pujolasfons.com/)
 
-### Working Papers
+**Offshoring and Voting Patterns in the US (2025)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Lidsay Oldenski](https://sites.google.com/view/minesenses/)
+
+
+### Old Working Papers
 
 **[Refugee Resettlement: The impact on international trade flows (2017)](https://2017-2021.state.gov/wp-content/uploads/2018/12/Refugee-Resettlement-The-Impact-on-International-Trade-Flows-1.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Chris Parsons](https://research-repository.uwa.edu.au/en/persons/christopher-parsons)     
 US Department of State Office of the Chief Economist (OCE) Working. Paper 3
