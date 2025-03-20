@@ -9,7 +9,7 @@ redirect_from:
 [Full CV](https://steingress.github.io\files\CV_Steingress_Walter.pdf)
 
 ### Current Position
-* Principal Researcher, Bank of Canada, Canada, 2020 - present  
+* Lecturer, La Follette School of Public Policy, University of Wisconsin-Madison, 2024 - present
 
 ### Education  
 * PhD in Economics, Université de Montréal, Canada, 2014  
@@ -17,6 +17,7 @@ redirect_from:
 * Master of Science (Magister) in Computer Science and Business Administration, University of Vienna, Austria, 2005  
 
 ### Past Positions
+* Principal Researcher, Bank of Canada, Canada, 2020 - 2024  
 * Visiting Scholar, Syracuse University, USA, 2022 - 2023
 * Visiting Scholar, University of Rochester, USA, 2021 - 2022  
 * Senior Economist, Bank of Canada, Canada, 2016 - 2020  
