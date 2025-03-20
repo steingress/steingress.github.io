@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Walter Steingress"
 title_separator          : "-"
 name                     : &name "Walter Steingress"
-description              : &description "Principal Researcher"
+description              : &description "Lecturer"
 url                      : https://steingress.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "steingress/steingress.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Walter Steingress"
   avatar           : "profile.png"
-  bio              : "Principal Researcher"
-  location         : "Ottawa, Canada"
-  employer         : "Bank of Canada"
+  bio              : "Lecturer"
+  location         : "Madison, Wisconsin"
+  employer         : "University of Wisconsin-Madison"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=8nCfWtQAAAAJ&hl=en"
   email            : "walter@steingress.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@W_STEINGRESS"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
