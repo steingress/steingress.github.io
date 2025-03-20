@@ -4,7 +4,7 @@ title: Working Papers
 author_profile: true
 ---
 
-**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral
+**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral  
 Bank of Canada Staff Working Paper, Nr. 2024-40
 
 **[Immigration and Provision of Public Goods: Evidence at the Local Level in the U.S" (2023)](https://www.bankofcanada.ca/wp-content/uploads/2023/11/swp2023-57.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Mine Z. Senses](https://sites.google.com/view/minesenses/)  
