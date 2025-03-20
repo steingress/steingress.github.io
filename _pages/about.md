@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer at the La Follette School of Public Affairs at the <a href="https://lafollette.wisc.edu">University of Wisconsin-Madison</a>.
+I am a Lecturer at the La Follette School of Public Affairs at the University of Wisconsin-Madison.
 
 My main research interests are International Economics and International Migration.
