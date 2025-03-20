@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Principal Researcher at the <a href="https://www.bankofcanada.ca/">Bank of Canada</a>
-and a Research Affiliate at the <a href="https://www.iza.org/"> Institute of Labor Economics (IZA)</a>.
+I am a Lecturer at the La Follette School of Public Affairs at the <a href="https://lafollette.wisc.edu">University of Wisconsin-Madison</a>.
 
 My main research interests are International Economics and International Migration.
