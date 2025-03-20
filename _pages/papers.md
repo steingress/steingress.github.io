@@ -4,7 +4,9 @@ title: Working Papers
 author_profile: true
 ---
 
-**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral  
+**[Offshoring and Voting Patterns in the US (2025)](https://drive.google.com/file/d/1d3nDZTQCzHB6Oj9j_b54gftwqxv_9HKa/view)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Lidsay Oldenski](https://sites.google.com/view/minesenses/)
+
+**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity (2024)](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral  
 Bank of Canada Staff Working Paper, Nr. 2024-40
 
 **[Immigration and Provision of Public Goods: Evidence at the Local Level in the U.S" (2023)](https://www.bankofcanada.ca/wp-content/uploads/2023/11/swp2023-57.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Mine Z. Senses](https://sites.google.com/view/minesenses/)  
@@ -16,10 +18,9 @@ Bank of Canada Staff Working Paper, Nr. 2023-10
 **[Climate Variability and International Trade (2023) ](https://www.bankofcanada.ca/wp-content/uploads/2023/01/swp2023-8.pdf)** - joint with [Geoff Dunbar](https://www.bankofcanada.ca/profile/geoffrey-r-dunbar/) and [Ben Tomlin](https://www.bankofcanada.ca/profile/ben-tomlin/)  
 Bank of Canada Staff Working Paper, Nr. 2023-8  
 
+### Work in Progress
+
 **Non-homothetic Ricardo (2024)** - joint with [Oliver Loertscher](https://www.oliverdl.com/) and [Pau Pujolas](https://pau.pujolasfons.com/)
-
-**Offshoring and Voting Patterns in the US (2025)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Lidsay Oldenski](https://sites.google.com/view/minesenses/)
-
 
 ### Old Working Papers
 
