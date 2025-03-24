@@ -9,6 +9,7 @@ author_profile: true
 
 **[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity (2024)](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral  
 Bank of Canada Staff Working Paper, Nr. 2024-40
+Coverage in: **[The Economist](https://www.economist.com/finance-and-economics/2025/03/13/your-guide-to-the-new-anti-immigration-argument)**
 
 **[Immigration and Provision of Public Goods: Evidence at the Local Level in the U.S" (2023)](https://www.bankofcanada.ca/wp-content/uploads/2023/11/swp2023-57.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Mine Z. Senses](https://sites.google.com/view/minesenses/)  
 CEPR Discussion Paper, Nr. 18054, Bank of Canada Staff Working Paper, Nr. 2023-57 
