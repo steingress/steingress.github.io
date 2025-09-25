@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-**[Offshoring and Voting Patterns in the US (2025)](https://drive.google.com/file/d/1d3nDZTQCzHB6Oj9j_b54gftwqxv_9HKa/view)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Lidsay Oldenski](https://lindsay-oldenski.facultysite.georgetown.edu/)
+**[Offshoring and Voting Patterns in the US (2025)](https://drive.google.com/file/d/1d3nDZTQCzHB6Oj9j_b54gftwqxv_9HKa/view)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Lindsay Oldenski](https://lindsay-oldenski.facultysite.georgetown.edu/)
 
 **[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity (2024)](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral  
 Bank of Canada Staff Working Paper, Nr. 2024-40  
