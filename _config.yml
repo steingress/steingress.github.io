@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Walter Steingress"
 title_separator          : "-"
 name                     : &name "Walter Steingress"
-description              : &description "Lecturer"
+description              : &description "Principal Economist"
 url                      : https://steingress.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "steingress/steingress.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Walter Steingress"
   avatar           : "profile.png"
-  bio              : "Lecturer"
-  location         : "Madison, Wisconsin"
-  employer         : "University of Wisconsin-Madison"
+  bio              : "Principal Economist"
+  location         : "Ottawa, Canada"
+  employer         : "Bank of Canada"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=8nCfWtQAAAAJ&hl=en"
   email            : "walter@steingress.com"
