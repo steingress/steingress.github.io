@@ -17,7 +17,7 @@ redirect_from:
 * Master of Science (Magister) in Computer Science and Business Administration, University of Vienna, Austria, 2005  
 
 ### Past Positions
-* Lecturer, La Follette School of Public Policy, University of Wisconsin-Madison, 2024 - 2025
+* Lecturer, La Follette School of Public Policy, University of Wisconsin-Madison, USA, 2024 - 2025
 * Principal Researcher, Bank of Canada, Canada, 2020 - 2024  
 * Visiting Scholar, Syracuse University, USA, 2022 - 2023
 * Visiting Scholar, University of Rochester, USA, 2021 - 2022  
