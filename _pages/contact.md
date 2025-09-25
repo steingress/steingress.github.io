@@ -4,8 +4,8 @@ title: Address
 author_profile: true
 ---
 
-Walter Steingress    
-402 Bascom Hall  
-500 Lincoln Drive  
-Madison, WI 53706  
-USA
+Walter Steingress
+Canadian Economic Analysis
+234 Wellington St. W
+Ottawa, ON K1A 0G9 
+Canada
