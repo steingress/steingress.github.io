@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer at the [La Follette School of Public Affairs](https://lafollette.wisc.edu/people/steingress-walter/) at the University of Wisconsin-Madison.
+I am a Principal Economist withing the Canadian Economic Analysis department at the [Bank of Canada]([(https://www.bankofcanada.ca/profile/walter-steingress/]).
 
 My main research interests are International Economics and International Migration.
