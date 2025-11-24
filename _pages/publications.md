@@ -4,7 +4,7 @@ title: Publications
 author_profile: true
 ---
 
-**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity (2024)](https://www.bankofcanada.ca/2024/10/staff-working-paper-2024-40/)** - joint with James Cabral  
+**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity (2025)](https://www.sciencedirect.com/science/article/pii/S0014292125002648?dgcid=author)** - joint with James Cabral  
 **European Economic Review**, Forthcoming   
 Coverage in: **[The Economist](https://www.economist.com/finance-and-economics/2025/03/13/your-guide-to-the-new-anti-immigration-argument)**
 
