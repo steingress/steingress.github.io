@@ -4,8 +4,8 @@ title: Publications
 author_profile: true
 ---
 
-**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity (2025)](https://www.sciencedirect.com/science/article/pii/S0014292125002648?dgcid=author)** - joint with James Cabral  
-**European Economic Review**, Forthcoming   
+**[Immigration and US Shelter Prices: The Role of Geographical and Immigrant Heterogeneity (2026)](https://www.sciencedirect.com/science/article/pii/S0014292125002648?dgcid=author)** - joint with James Cabral  
+**European Economic Review**, Volume 182, February 2026, 105214   
 Coverage in: **[The Economist](https://www.economist.com/finance-and-economics/2025/03/13/your-guide-to-the-new-anti-immigration-argument)**
 
 **[No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000514)** - joint with [Julia Schmidt](http://julia-schmidt.org/)  
