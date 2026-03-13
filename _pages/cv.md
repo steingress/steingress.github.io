@@ -9,7 +9,7 @@ redirect_from:
 [Full CV](https://steingress.github.io\files\CV_Steingress_Walter.pdf)
 
 ### Current Position
-* Principal Economist, Bank of Canada, Canada, 2025 - present  
+* Principal Researcher, Bank of Canada, Canada, 2025 - present  
 
 ### Education  
 * PhD in Economics, Université de Montréal, Canada, 2014  
