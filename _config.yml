@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Walter Steingress"
 title_separator          : "-"
 name                     : &name "Walter Steingress"
-description              : &description "Principal Economist"
+description              : &description "Principal Researcher"
 url                      : https://steingress.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "steingress/steingress.github.io"
