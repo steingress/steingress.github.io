@@ -8,16 +8,17 @@ author_profile: true
 **[Offshoring and Voting Patterns in the US (2025)](https://drive.google.com/file/d/1d3nDZTQCzHB6Oj9j_b54gftwqxv_9HKa/view)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Lindsay Oldenski](https://lindsay-oldenski.facultysite.georgetown.edu/).   
 Conditionally accepted **Journal of International Economics**.
 
+**[Climate Variability and International Trade (2023) ](https://www.bankofcanada.ca/wp-content/uploads/2023/01/swp2023-8.pdf)** - joint with [Geoff Dunbar](https://www.bankofcanada.ca/profile/geoffrey-r-dunbar/) and [Ben Tomlin](https://www.bankofcanada.ca/profile/ben-tomlin/)    
+Conditionally accepted  **European Economic Review**   
+Bank of Canada Staff Working Paper, Nr. 2023-8 
+
 **[Immigration and Provision of Public Goods: Evidence at the Local Level in the U.S" (2023)](https://www.bankofcanada.ca/wp-content/uploads/2023/11/swp2023-57.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Mine Z. Senses](https://sites.google.com/view/minesenses/).   
 Revise and resubmit at the **Journal of the European Economic Association**   
 CEPR Discussion Paper, Nr. 18054, Bank of Canada Staff Working Paper, Nr. 2023-57 
 
 **[Exporting and Investment under Credit Constraints (2023) ](https://www.bankofcanada.ca/wp-content/uploads/2023/02/swp2023-10.pdf)** - joint with [Kim Huynh](https://www.bankofcanada.ca/profile/kim-huynh/), [Rob Petrunia](https://www.lakeheadu.ca/users/P/rpetruni) and [Joel Rodrigue](https://joelrodrigue.com/)   
 Bank of Canada Staff Working Paper, Nr. 2023-10
-
-**[Climate Variability and International Trade (2023) ](https://www.bankofcanada.ca/wp-content/uploads/2023/01/swp2023-8.pdf)** - joint with [Geoff Dunbar](https://www.bankofcanada.ca/profile/geoffrey-r-dunbar/) and [Ben Tomlin](https://www.bankofcanada.ca/profile/ben-tomlin/)    
-Revise and resubmit at the  **European Economic Review**   
-Bank of Canada Staff Working Paper, Nr. 2023-8  
+ 
 
 ### Work in Progress
 
