@@ -6,7 +6,7 @@ author_profile: true
 
 
 **[Offshoring and Voting Patterns in the US (2025)](https://drive.google.com/file/d/1d3nDZTQCzHB6Oj9j_b54gftwqxv_9HKa/view)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Lindsay Oldenski](https://lindsay-oldenski.facultysite.georgetown.edu/).   
-Conditionally accepted **Journal of International Economics**.
+Forthcoming **Journal of International Economics**.
 
 **[Climate Variability and International Trade (2023) ](https://www.bankofcanada.ca/wp-content/uploads/2023/01/swp2023-8.pdf)** - joint with [Geoff Dunbar](https://www.bankofcanada.ca/profile/geoffrey-r-dunbar/) and [Ben Tomlin](https://www.bankofcanada.ca/profile/ben-tomlin/)    
 Conditionally accepted  **European Economic Review**   
