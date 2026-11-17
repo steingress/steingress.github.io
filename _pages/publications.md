@@ -8,7 +8,7 @@ author_profile: true
 **European Economic Review**, Vol. 182, February 2026, 105214   
 Coverage in: **[The Economist](https://www.economist.com/finance-and-economics/2025/03/13/your-guide-to-the-new-anti-immigration-argument)**
 
-**[No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000514)** - joint with [Julia Schmidt](http://julia-schmidt.org/)  
+**[No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000514)** - joint with [Julia Schmidt](https://juliaschmidtecon.github.io/)  
 **Journal of International Economics**, Vol. 137, 103619  
 Download Ad-Valorem Equivalents (AVE) per 2 and 4-digit HS code [here](https://steingress.github.io\files\AVE_estimates_Schmidt_Steingress.zip).  
 Download correspondence table between the International Classification for Standards (ICS) and the Harmonized System (HS) [here](https://steingress.github.io\files\ICS_HS_concordance.zip).
